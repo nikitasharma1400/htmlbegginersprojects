@@ -1,23 +1,28 @@
-for first one
-
 <!DOCTYPE html>
-
-<html style="background-color: rgb(122, 33, 63);">
-
-```
-<head style="text-align: center;"><b>
-    "WELCOME TO MY WEBPAGE"
-    </b>
+<html>
+<head>
+    
+    <title>Welcome to My Webpage</title>
 </head>
-<pre style="text-size-adjust: 36;text-align: center;">
-    MY NAME IS NIKITA.
-     I AM 19.
-     I AM PURSUING MY BTECH IN DATA SCIENCES.
-</pre>
-<h1>MY HOBBIES INCLUDE SURFING ON INTERNET AND MY FAVIOURITE WEBSITE IS </h1>
-<a href="www.instagram.com"></a>
-<h2>my faviourite place.</h2>
-<img src="https://chandigarhupdates.com/wp-content/uploads/2018/04/zakir-hussain-rose-garden-chandigarh.jpg">
-```
+<body style="color: white; text-align: center; font-family: Arial, sans-serif;">
 
+    <h1>WELCOME TO MY WEBPAGE</h1>
+
+    <p>
+        MY NAME IS NIKITA.<br>
+        I AM 19.<br>
+        I AM PURSUING MY BTECH IN DATA SCIENCES.
+    </p>
+
+    <h2>MY HOBBIES INCLUDE SURFING ON THE INTERNET</h2>
+    <p>MY FAVOURITE WEBSITE IS 
+        <a href="https://www.instagram.com" target="_blank" style="color: #ffd700;">Instagram</a>
+    </p>
+
+    <h2>MY FAVOURITE PLACE.</h2>
+    <img src="https://chandigarhupdates.com/wp-content/uploads/2018/04/zakir-hussain-rose-garden-chandigarh.jpg" 
+         alt="Rose Garden, Chandigarh" width="500" style="border-radius: 10px; box-shadow: 0 0 10px white;">
+
+</body>
 </html>
+
