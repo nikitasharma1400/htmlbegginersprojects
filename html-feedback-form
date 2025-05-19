@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>
+            WE ARE CREATING A FORMM.
+        </title>
+    </head>
+    <body style="background-color: skyblue;text-align:center;width: 200px;height: 500px;">
+
+```
+    <form>
+        
+        <input type="text" placeholder="enter your name"  style="color: blueviolet;text-align: center;font-size: 36px;">
+        <br>
+        <input type="email" placeholder="enter your email"  style="color: darkmagenta;text-align: center;font-size: 36px;">
+        <br>
+        <input type="text" placeholder="kindly leave your feedback" >
+        <br>
+        <input type="text" placeholder="any queries and others" >
+        <br>
+        <input type="text" placeholder="leave your messages" >
+        <br>
+        <input type="submit">
+        
+    </form>
+
+
+</body>
+```
+
+</html>
