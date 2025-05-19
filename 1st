@@ -1,0 +1,23 @@
+for first one
+
+<!DOCTYPE html>
+
+<html style="background-color: rgb(122, 33, 63);">
+
+```
+<head style="text-align: center;"><b>
+    "WELCOME TO MY WEBPAGE"
+    </b>
+</head>
+<pre style="text-size-adjust: 36;text-align: center;">
+    MY NAME IS NIKITA.
+     I AM 19.
+     I AM PURSUING MY BTECH IN DATA SCIENCES.
+</pre>
+<h1>MY HOBBIES INCLUDE SURFING ON INTERNET AND MY FAVIOURITE WEBSITE IS </h1>
+<a href="www.instagram.com"></a>
+<h2>my faviourite place.</h2>
+<img src="https://chandigarhupdates.com/wp-content/uploads/2018/04/zakir-hussain-rose-garden-chandigarh.jpg">
+```
+
+</html>
