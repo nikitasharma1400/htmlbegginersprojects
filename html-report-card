@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>STUDENT REPORT CARD</title>
+    </head>
+    <BODY style="background-color: aquamarine;">
+        <table style="text-align: center;font-size: 36px;color: black;">
+                <caption>TERM 1 REPORT CARD</caption>
+                <tr> <th>SUBJECT</th> <th>MARKS</th> <th>GRADE</th> </tr>
+                <tr> <td>MATHS </td> <td>70/100</td> <td>B</td></tr>
+                <tr> <td>ENGLISH</td> <td>80/100</td> <td>A</td></tr>
+                <tr> <td>HINDI</td> <td>90/100</td> <td>A</td></tr>
+                <tr> <td>FRENCH</td> <td>80/100</td> <td>A</td></tr>
+                <tr><td colspan="3">Total: 320 / 400</td></tr>
+                <tr><td colspan="3">Percentage: 80%</td></tr>
+
+            
+        </table>
+    </BODY>
+</html>
